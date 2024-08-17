@@ -1,26 +1,19 @@
 {
-  "TRAIN_NO": "12559",
+  "TRAIN_NO": "12875",
   "TRAIN_COACH": "SL",
-  "TRAVEL_DATE": "18/07/2024",
-  "SOURCE_STATION": "BSBS",
+  "TRAVEL_DATE": "18/08/2024",
+  "SOURCE_STATION": "BBS",
   "BOARDING_STATION": null,
-  "DESTINATION_STATION": "NDLS",
-  "TATKAL": false,
+  "DESTINATION_STATION": "AGC",
+  "TATKAL": true,
   "PREMIUM_TATKAL": false,
-  "UPI_ID_CONFIG": "",
+  "UPI_ID_CONFIG": "7351791716@ybl",
   "PASSENGER_DETAILS": [
     {
       "NAME": "Shivam Pandey",
       "AGE": 26,
       "GENDER": "Male",
-      "SEAT": "No Preference",
-      "FOOD": "No Food"
-    },
-    {
-      "NAME": "Shivam Dubey",
-      "AGE": 26,
-      "GENDER": "Female",
-      "SEAT": "No Preference",
+      "SEAT": "Upper",
       "FOOD": "No Food"
     }
   ],
