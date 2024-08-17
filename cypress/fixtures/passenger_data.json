@@ -5,7 +5,7 @@
   "SOURCE_STATION": "BBS",
   "BOARDING_STATION": null,
   "DESTINATION_STATION": "AGC",
-  "TATKAL": true,
+  "TATKAL": false,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "7351791716@ybl",
   "PASSENGER_DETAILS": [
